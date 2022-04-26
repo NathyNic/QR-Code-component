@@ -43,8 +43,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS custom properties
 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 Wanted to put in practice what I already knew.
